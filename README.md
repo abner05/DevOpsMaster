@@ -23,13 +23,6 @@ Container Orchestration :
         4, Service  discovery  using Load Balancer Service
         5, Health check monitoring of  containers  and Hosts 
         6, Networking between containers ( bridage driver) 
-       
-
-
-
-
-
-
 
 Docker 
 
